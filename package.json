@@ -1,6 +1,6 @@
 {
   "name": "rod",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "rod is a simple http transfer agent that supports https/gzip/deflate and follows redirects, it also can run in a fiber.",
   "main": "index.js",
   "scripts": {
