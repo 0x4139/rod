@@ -1,0 +1,46 @@
+{
+  "name": "rod",
+  "version": "1.0.0",
+  "description": "rod is a simple http transfer agent that supports https/gzip/deflate and follows redirects, it also can run in a fiber.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0x4139/rod.git"
+  },
+  "keywords": [
+    "http",
+    "get",
+    "post",
+    "simple",
+    "get",
+    "simple",
+    "request",
+    "stream",
+    "http-https",
+    "https",
+    "deflate",
+    "gzip",
+    "follow",
+    "redirects",
+    "redirects",
+    "http.get",
+    "get",
+    "request",
+    "GET",
+    "http",
+    "request"
+  ],
+  "author": "Vali Malinoiu 0x4139@gmail.com",
+  "license": "MIT Copyright Vali Malinoiu",
+  "bugs": {
+    "url": "https://github.com/0x4139/rod/issues"
+  },
+  "homepage": "https://github.com/0x4139/rod#readme",
+  "dependencies": {
+    "object-assign": "^3.0.0",
+    "unzip-response": "^1.0.0"
+  }
+}
